@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+  <name>ShopAlot</name>
+  <comment>NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
+  <projects>
+    <project>ShopAlot.Pojo</project>
+    <project>ShopAlot.Persistence</project>
+    <project>ShopAlot.Webservice</project>
+    <project>ShopAlot.MobileWebservice</project>
+    <project>ShopAlot.Transection</project>
+    <project>ShopAlot.Common</project>
+  </projects>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>
